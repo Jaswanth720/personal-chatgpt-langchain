@@ -1,4 +1,4 @@
-# One day this chatgpt will be able replace me for interviews(LANGCHAIN VECTORSTORE)
+# One day this chatgpt will be able to replace me for interviews(LANGCHAIN VECTORSTORE)
 
 1. Why cant a candidate use chatgpt when enterprise uses AI in the interview process?
 2. I am training this guy with all my info and background to crack interviews (only data necessary for interviews). 
